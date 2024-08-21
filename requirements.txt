@@ -5,3 +5,4 @@ pillow
 flasgger
 flask_cors
 flask-restful
+gunicorn
