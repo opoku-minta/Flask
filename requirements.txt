@@ -6,3 +6,4 @@ flasgger
 flask_cors
 flask-restful
 gunicorn
+tensorflow
